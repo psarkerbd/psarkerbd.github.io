@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a>, <a href='https://www.neub.edu.bd/'> North East University Bangladesh</a>, Sylhet, Bangladesh.
+subtitle: <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a>, <a href='https://www.neub.edu.bd/'> North East University Bangladesh</a>, Sylhet-3100, Bangladesh.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #address: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
