@@ -23,11 +23,11 @@ I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/depar
 </div>
 
 <div style="text-align: justify">
-I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach `_pages/cv.md`.
+I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach. Please visit to find details <a href='https://psarkerbd.github.io/cv/'>here</a>.
 </div>
 
 <div style="text-align: justify">
-Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this learning delighted my studying career at the University `_pages/repositories.md`.
+Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this <a href='https://psarkerbd.github.io/repositories/'>learning</a> delighted my studying career at the University.
 </div>
 
 
