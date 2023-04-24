@@ -21,9 +21,11 @@ social: true  # includes social icons at the bottom of the page
 <div style="text-align: justify">
 I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>. After completing my bachelor's degree (BSc. (Engg.) in CSE), I joined my University on the 26th of May, 2018. I have also been involved as a Peer-Reviewer in a Scopus-indexed journal, namely, the <a href='https://journal.uob.edu.bh/handle/123456789/12?id=about'>International Journal of Computing and Digital Systems</a>. Nevertheless, my research interests are <b>Data compression</b>, <b>Huffman coding</b>, <b>Data Structure</b>, <b>Algorithms</b>, <b>Blockchain</b>, <b>Trust management</b>, and <b>Security</b>.
 </div>
+
 <div style="text-align: justify">
 I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach `_pages/cv.md`.
 </div>
+
 <div style="text-align: justify">
 Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this learning delighted my studying career at the University `_pages/repositories.md`.
 </div>
