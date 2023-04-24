@@ -2,10 +2,11 @@ github_users:
   - psarkerbd
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - psarkerbd/Data-Structure
+  - psarkerbd/Competitive-Programming
+  - psarkerbd/Micro-Credit-Bank
+  - psarkerbd/NEUB-Blood-Donor
+  - psarkerbd/File-Searching-by-Name-on-whole-Hard-Drives
+  - psarkerbd/File-Searching-by-extension-on-whole-Hard-Drives
+  - psarkerbd/Lottery
+  - psarkerbd/Two-players-Dice-Game-tkinter-Python-
