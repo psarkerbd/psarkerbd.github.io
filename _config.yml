@@ -80,13 +80,14 @@ telegram_username: # your Telegram user name
 scholar_userid: ZDjvXEkAAAAJ # your Google Scholar ID
 scopus_authorid: 57223616299 # your Scopus author id
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +880 1680929776 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3464-8983 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: Pranta-Sarker-2 # your profile on ResearchGate
+academia_profile: PrantaSarker # your academia profile
 blogger_url: # your blogger URL
 work_url: neub.edu.bd/ # work page URL
 keybase_username: # your keybase user name
