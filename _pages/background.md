@@ -5,7 +5,7 @@ permalink: /r_background/
 ---
 
 <p style="text-align: justify">
-My <b>undergraduate</b> thesis, <a href='https://link.springer.com/chapter/10.1007/978-981-15-3607-6_25'>A Faster Decoding Technique for Huffman Codes Using Adjacent Distance Array</a>, relied on data compression and Huffman coding. The research introduced an <em>adjacent distance array</em> data structure that significantly <u>mitigates the encoding-decoding timing for English corpora </u>.
+My <b>undergraduate</b> thesis, <a href='https://link.springer.com/chapter/10.1007/978-981-15-3607-6_25'>A Faster Decoding Technique for Huffman Codes Using Adjacent Distance Array</a>, relied on data compression and Huffman coding. The research introduced an <em><b>adjacent distance array</b></em> data structure that significantly <u>mitigates the encoding-decoding timing for English corpora </u>.
 </p>
 
 <p style="text-align: justify">
