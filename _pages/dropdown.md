@@ -6,7 +6,7 @@ nav_order: 2
 dropdown: true
 children: 
     - title: Background
-      permalink: /publications/
+      permalink: /background/
     - title: divider
     - title: Publications
       permalink: /publications/
