@@ -5,11 +5,11 @@ permalink: /r_background/
 ---
 
 <p style="text-align: justify">
-I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>. After completing my bachelor's degree (BSc. (Engg.) in CSE), I joined my University on the 26th of May, 2018. At the same time, I have been involved as a Peer-Reviewer in a Scopus-indexed journal, namely, the <a href='https://journal.uob.edu.bh/handle/123456789/12?id=about'>International Journal of Computing and Digital Systems</a>. Nevertheless, my research interests are <b>Data compression</b>, <b>Huffman coding</b>, <b>Data Structure</b>, <b>Algorithms</b>, <b>Blockchain</b>, <b>Trust management</b>, and <b>Security</b>.
+My <b>undergraduate</b> thesis, <em>A Faster Decoding Technique for Huffman Codes Using Adjacent Distance Array</em>, relied on data compression and Huffman coding. The research introduced an <em>adjacent distance array</em> data structure that significantly mitigates the encoding-decoding timing for English corpora.
 </p>
 
 <p style="text-align: justify">
-I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach. Please visit to find details <a href='https://psarkerbd.github.io/cv/'>here</a>.
+
 </p>
 
 <p style="text-align: justify">
