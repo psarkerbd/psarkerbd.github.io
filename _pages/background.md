@@ -13,5 +13,5 @@ The research was further updated with a transliteration-based approach by publis
 </p>
 
 <p style="text-align: justify">
-In addition, proof has been found that the research's compression methodology outperforms traditional any Huffman-based approaches in terms of compression-decompression time for the Bengali transliterated text. The study's outcome is entitled Method of Adjacent Distance Array Outperforms Conventional Huffman Codes to Decode Bengali Transliterated Text Swiftly published in a journal.
+In addition, proof has been found that the research's compression methodology outperforms traditional any Huffman-based approaches in terms of <u>compression-decompression time for the Bengali transliterated text</u>. The study's outcome is entitled <a href='https://journal.uob.edu.bh/handle/123456789/4498'>Method of Adjacent Distance Array Outperforms Conventional Huffman Codes to Decode Bengali Transliterated Text Swiftly</a> published in a Scopus-indexed journal.
 </p>
