@@ -2,11 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pranta Sarker
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th January 1995
     - name: Languages
-      value: English, German
+      value: Bengali, English
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Lecturer, Department of Computer Science and Engineering, North East University
+             Bangladesh, Telihaor, Sheikghat, Sylhet, Bangladesh.
 
 - title: Education
   type: time_table
