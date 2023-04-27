@@ -6,13 +6,18 @@
     - name: Date of Birth
       value: 26th January 1995
     - name: Languages
-      value: Bengali, English
+      value: Bengali and English
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Lecturer, Department of Computer Science and Engineering, North East University
-             Bangladesh, Telihaor, Sheikghat, Sylhet, Bangladesh.
+    - title: Lecturer
+      institution: Department of Computer Science and Engineering, North East University Bangladesh, Telihaor, Sheikghat, Sylhet, Bangladesh.
+      year: 2018 - Present
+      description:
+        - Make lecture of the courses and conduct classes.
+        - Supervise the students.
+
 
 - title: Education
   type: time_table
