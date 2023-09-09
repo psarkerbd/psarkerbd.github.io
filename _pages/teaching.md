@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: Teaching and Responsibilities
 description: 
-
 As a faculty member, the primary role involves delivering engaging and informative lectures to students, utilizing innovative teaching methods to enhance comprehension, designing and implementing fair assessments, grading assignments, and providing constructive feedback to aid student development.
 
 In tandem with teaching, my role involves conducting rigorous research in my field, publishing scholarly articles, and contributing to the academic discourse that allows me to publish Scopus-indexed articles, enhancing enthusiasm in the research area.
