@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Responsibilities
+title: Teaching
 description: As a faculty member,
 nav: true
 nav_order: 3
