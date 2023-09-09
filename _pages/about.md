@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer, Dept. of CSE</a>, <a href='https://www.neub.edu.bd/'> North East University Bangladesh</a>, Sylhet, Bangladesh.
+subtitle: Lecturer, Dept. of CSE, North East University Bangladesh, Sylhet, Bangladesh.
 
 profile:
   align: right
@@ -20,11 +20,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p style="text-align: justify">
-I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>. After completing my bachelor's degree (BSc. (Engg.) in CSE), I joined my University in May 2018. At the same time, I have been involved as a <a href='https://edas.info/showSelf.php?c=26939'>Peer-Reviewer</a> in a Scopus-indexed journal, namely, the <a href='https://journal.uob.edu.bh/handle/123456789/12?id=about'>International Journal of Computing and Digital Systems</a>. My research interests cover the areas of <b>Data compression</b>, <b>Huffman coding</b>, <b>Data Structure</b>, <b>Algorithms</b>, <b>Blockchain</b>, <b>Trust management</b>, and <b>Security</b>. Nevertheless, you can find me <a href='https://psarkerbd.github.io/cv/'>here</a> to learn more.
+I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>. After completing my bachelor's degree (BSc.(Engineering) in Computer Science), I joined my University in May 2018. At the same time, I have been involved as a <a href='https://edas.info/showSelf.php?c=26939'>TPC Reviewer</a> in a Scopus-indexed journal, namely, the <a href='https://journal.uob.edu.bh/handle/123456789/12?id=about'>International Journal of Computing and Digital Systems</a>. My research interests cover the areas of <b>Data compression</b>, <b>Data Structure</b>, and <b>Algorithms</b>. However, <b>Blockchain</b>, <b>Trust management</b>, and <b>Security</b>.
 </p>
 
 <p style="text-align: justify">
-I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach. Please visit to find details <a href='https://psarkerbd.github.io/cv/'>here</a>.
+I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach.
 </p>
 
 <p style="text-align: justify">
