@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a>, <a href='https://www.neub.edu.bd/'> North East University Bangladesh</a>, Sylhet, Bangladesh.
+subtitle: <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer, Dept. of CSE</a>, <a href='https://www.neub.edu.bd/'> North East University Bangladesh</a>, Sylhet, Bangladesh.
 
 profile:
   align: right
