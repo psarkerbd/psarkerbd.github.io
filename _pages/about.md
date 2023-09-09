@@ -24,6 +24,18 @@ I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/depar
 However, at present, the research field of interest is <b>Blockchain</b>, which could ensure privacy and security, manage trust, and evaluate the reputation of a system.
 </p>
 
+<p style="text-align: justify"> 
+As a faculty member, the primary role involves delivering engaging and informative lectures to students, utilizing innovative teaching methods to enhance comprehension, designing and implementing fair assessments, grading assignments, and providing constructive feedback to aid student development.
+</p>
+
+<p style="text-align: justify"> 
+In tandem with teaching, my role involves conducting rigorous research in my field, publishing scholarly articles, and contributing to the academic discourse that allows me to publish Scopus-indexed articles, enhancing enthusiasm in the research area.
+</p>
+
+<p style="text-align: justify"> 
+To describe the administrative rules, I have participated in making an Outcome Based Education (OBE) curriculum for several courses in the program instructed by UGC. In addition, I am still gathering experience as a member of the Result Verification Committee and an Assistant Proctor to serve the proctorial rules at the university.
+</p>
+
 <p style="text-align: justify">
 I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach.
 </p>
