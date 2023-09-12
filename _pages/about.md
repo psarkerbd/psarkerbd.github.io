@@ -34,5 +34,5 @@ However, I could bear a good knowledge of C, C++, Java, and Python programming l
 </p>
 
 <p style="text-align: justify">
-Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this <a href='https://psarkerbd.github.io/repositories/'>learning</a> delighted my studying career at the University.
+Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this <a href='https://psarkerbd.github.io/repositories/'>learning</a> delighted my studying career at the university.
 </p>
