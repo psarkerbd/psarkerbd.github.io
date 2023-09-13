@@ -87,7 +87,8 @@ th, td {
 <h6>Note:</h6>
 <ol>
     <li id="footnote-1"><b> * </b> indicates the running semester.</li>
-    <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program.</li>
+    <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program.
+    <li id="footnote-3">Instead of four, from 2022, the university has been following six months for a semester, compliant with the approaches of the government and UGC.</li>
 </ol>
 
 
