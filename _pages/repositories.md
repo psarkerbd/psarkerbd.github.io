@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: The page features all the repositories from GitHub that include different activities, such as projects and coding. To make Web-based projects, I have utilized the knowledge of PHP, HTML, and W3CSS. In addition, I employed Python's Tkinter feature to develop some exciting desktop projects. Besides, it has archived some solutions to programming problems and a collection of other codes that I had programmed during my pupil time.
 nav: true
 nav_order: 5
 ---
