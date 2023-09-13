@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Selected as a memeber in RVC
 date: 2023-07-09 16:11:00-0400
 inline: false
 related_posts: false
