@@ -80,7 +80,7 @@ th, td {
     <td>Summer 2022, Spring 2019</td>
   </tr>
 </table>
-<h1>Note</h1>
+<h6>Note:</h6>
 <ol>
     <li id="footnote-1"><b> * </b> indicates the running semester.</li>
     <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program.</li>
