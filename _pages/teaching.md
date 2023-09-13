@@ -6,6 +6,7 @@ description: I have had the opportunity to take several courses in my teaching c
 nav: true
 nav_order: 3
 ---
+<style>
 table {
   border-collapse: collapse;
   border: 2px solid black;
