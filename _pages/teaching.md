@@ -6,22 +6,25 @@ description: I have had the opportunity to take several courses in my teaching c
 nav: true
 nav_order: 3
 ---
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Course Name</th>
+    <th>Taken Semester</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>CSE 101 Fundamentals of Computer</td>
+    <td>Fall 2021</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>CSE 131 Data structure</td>
+    <td>CSE 132 Data structure Lab</td>
+    <td>Spring 2022</td>
   </tr>
 </table>
 
