@@ -7,12 +7,18 @@ nav: true
 nav_order: 3
 ---
 <style>
-table, th, td {
-  border:1px solid black;
+table {
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+
+th, td {
+  padding: 5px;
+  border: 1px solid black;
 }
 </style>
 
-<table>
+<table style="width:100%">
   <tr>
     <th>Course Name</th>
     <th>Taken Semester</th>
@@ -21,7 +27,7 @@ table, th, td {
     <td>CSE 101 Fundamentals of Computer</td>
     <td>Fall 2021</td>
   </tr>
-  <tr>
+  <tr colspan="2">
     <td>CSE 131 Data structure, CSE 132 Data structure Lab</td>
     <td>Spring 2022</td>
   </tr>
