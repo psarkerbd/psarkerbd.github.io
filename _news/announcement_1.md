@@ -6,7 +6,9 @@ inline: false
 related_posts: false
 ---
 It is my immense pleasure that the university selected me as an Assistant Professor. The decision came out on the 5th of September and will persist until further announcement. I want to thank the Vice Chancellor and related authority of the university.
+
 ***
+
 The main rule to be an Assistant Proctor is to -
 <ul>
     <li>Assist the Proctor of the university in serving the proctorial rules.</li>
