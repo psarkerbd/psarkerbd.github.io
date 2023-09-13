@@ -22,8 +22,7 @@ table, th, td {
     <td>Fall 2021</td>
   </tr>
   <tr>
-    <td>CSE 131 Data structure</td>
-    <td>CSE 132 Data structure Lab</td>
+    <td>CSE 131 Data structure, CSE 132 Data structure Lab</td>
     <td>Spring 2022</td>
   </tr>
 </table>
