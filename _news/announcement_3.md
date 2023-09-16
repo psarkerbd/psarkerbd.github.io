@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Got an email from the Editor in Chief of the International Journal of Information and Communication Technology (IJICT) regarding the <b>acceptance</b> of the paper entitled ``A Huffman-Based Short Message Service (SMS) Compression Technique Using Adjacent Distance Array". The IJICT is one of the Scopus-indexed journals owned by IInderscience Publishers.
+Got an email from the Editor in Chief of the International Journal of Information and Communication Technology (IJICT) regarding the <b>acceptance</b> of the paper entitled <em>A Huffman-Based Short Message Service (SMS) Compression Technique Using Adjacent Distance Array</em>. The IJICT is one of the Scopus-indexed journals owned by Inderscience Publishers.
