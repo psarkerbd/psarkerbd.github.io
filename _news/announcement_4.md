@@ -5,8 +5,7 @@ date: 2022-02-17 16:11:00-0400
 inline: false
 related_posts: false
 ---
-On the 17th of February 2022, I was invited by the International Journal of Computing and Digital Systems (IJCDS), a Scopus-indexed journal, to serve as a reviewer of an article. 
-It was an excellent opportunity for me as I have enthusiasm for research, and will enhance my reviewing capability, which I most enjoy.
+On the 17th of February 2022, I am invited by the International Journal of Computing and Digital Systems (IJCDS), a Scopus-indexed journal, to serve as a reviewer of an article. It is an excellent opportunity for me as I have enthusiasm for research and it will enhance my reviewing capability, which I most enjoy.
 
 
 ***
