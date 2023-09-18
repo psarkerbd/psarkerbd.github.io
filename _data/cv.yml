@@ -7,21 +7,20 @@
       value: 26th January 1995
     - name: Languages
       value: Bengali and English
-      
-- title: Education
-  type: time_table
-  contents:
-    - title: B.Sc.(Engg.) in Computer Science and Engineering
-      institution:  Department of Computer Science and Engineering, North East University Bangladesh, Sylhet, Bangladesh.
-      year: 2014-2018
-    - title: Higher Secondary Certificate
-      institution: Jalalabad Cantonment Public School and College, Sylhet, Bangladesh. 
-      year: 2012
-    - title: School Secondary Certificate
-      institution: Sylhet Govt. Pilot High School, Sylhet, Bangladesh.
-      year: 2010
+    - name: Blood group
+      value: O(+)
+    - name: Father
+      value: Aradhen Sarker
+    - name: Mother
+      value: Sanchita Sarker
+    - name: Country
+      value: Bangladesh
+    - name: Younger brother
+      value: Shimanta Sarker
+    - name: Spouse
+      value: Bilasi Deb Nath
 
-- title: Experience
+- title: Hobbies
   type: time_table
   contents:
     - title: Lecturer
