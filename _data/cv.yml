@@ -20,47 +20,51 @@
     - name: Spouse
       value: Bilasi Deb Nath
 
+#- title: Hobbies
+#  type: time_table
+#  contents:
+#    - title: Lecturer
+#      institution: Department of Computer Science and Engineering, North East University Bangladesh, Telihaor, Sheikghat, Sylhet, Bangladesh.
+#     year: 2018 - Present
+#      description:
+#        - Make lecture of the courses and conduct classes.
+#        - Supervise the students.
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 - title: Hobbies
-  type: time_table
-  contents:
-    - title: Lecturer
-      institution: Department of Computer Science and Engineering, North East University Bangladesh, Telihaor, Sheikghat, Sylhet, Bangladesh.
-      year: 2018 - Present
-      description:
-        - Make lecture of the courses and conduct classes.
-        - Supervise the students.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - I like to read books in my leisure time. My favorite genre is a thriller, and I always enjoy Dan Brown's Robert Langdon series.
+Gardening is also a favorable recreation for me. I love to cultivate and grow trees, especially some uncommon trees.
+    - Gardening is also a favorable recreation for me. I love to cultivate and grow trees, especially some uncommon trees.
+    - Sports is another component that stimulates my brain. I am fond of football and try to watch every match of Argentina. Club position, I am a fan of the Barcelona football club due to the phenomenon of Lionel Messi. However, since my country directly participates in Cricket, I always try to follow their game.
+    - Sometimes, I like to play video games. Although the gaming sector has boomed thanks to smartphones and better technologies, desktop games make me more thrilled than others. In this case,  the FIFA games should get an extra edge from me.
+    - I have a blog, and whenever I get time, I like contributing to it by introducing any algorithm, method, or tutorial in my field, computer science.
