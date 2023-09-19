@@ -37,16 +37,24 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
-#        - Matteucci Medal
-#    - year: 2029
-#      items: 
-#        - Max Planck Medal
+- title: Acheivements
+  type: time_table
+  contents:
+    - year: 2022
+      title: Certificate of Participation for training on BNQF and OBE curriculum
+      items: 
+        - Participated in the professional development training on Bangladesh National Qualification Framework (BNQF) and Outcome Based Education (OBE) curriculum organized by IQAC, North East University Bangladesh.
+    - year: 2019
+      items: 
+        - Honorable Mention as a <b>coach</b> in ICPC.
+    - year: 2017
+      items: 
+        - Honorable Mention as a contestant in ICPC.
+        - Honorable mention as a contestant in NCPC 2017.
+    - year: 2016
+      items: 
+        - Honorable Mention as a contestant in ICPC.
+    
 
 #- title: Academic Interests
 #  type: nested_list
