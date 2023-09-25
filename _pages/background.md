@@ -19,3 +19,7 @@ In addition, proof has been found that the research's compression methodology ou
 <p style="text-align: justify">
 However, we, the authors, have recently applied the modus operandi to <u>compress short text messages</u>, which achieved <u>a significant compression ratio for the SMS messages by evaluating a prestigious corpus containing various short texts of people</u>. Eventually, the study's ultimate findings have been <a href='https://www.indersciencesubmissions.com/track/index.php?action=submissiondetails&intSubmissionId=104885'><b>accepted</b> and <b>yet to be published</b></a> as an article titled <a href='https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijict#111512'>A Huffman Based Short Message Service (SMS) Compression Technique Using Adjacent Distance Array</a> in another Scopus-indexed journal, the <a href='https://www.inderscience.com/jhome.php?jcode=ijict'>International Journal of Information and Communication Technology</a>.
 </p>
+
+<p style="text-align: justify">
+<b><em>B</em></b>esides, although my research interest relied on data compression, data structure, Huffman coding, and algorithms, I am receptive to working on security and privacy, blockchain, trust and reputation management, artificial intelligence, machine learning, and software engineering.
+</p>
