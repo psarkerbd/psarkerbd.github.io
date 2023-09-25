@@ -21,5 +21,4 @@ However, we, the authors, have recently applied the modus operandi to <u>compres
 </p>
 
 <p style="text-align: justify">
-<b><em>B</em></b>esides, although my research interest relied on data compression, data structure, Huffman coding, and algorithms, I am receptive to working on security and privacy, blockchain, trust and reputation management, artificial intelligence, machine learning, and software engineering.
-</p>
+<b><em>B</em></b>esides, although my research interest relied on data compression, data structure, Huffman coding, and algorithms, I am receptive to working on security and privacy, blockchain, trust and reputation management, artificial intelligence, machine learning, and software engineering. </p>
