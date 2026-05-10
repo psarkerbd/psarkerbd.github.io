@@ -30,6 +30,3 @@ However, my current research interest is <b>blockchain-based trust and reputatio
 <p style="text-align: justify">
 I am seeking <em>HDR/MRes/MPhil</em> supervision and <em>RTP scholarship</em> opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
 </p>
-
-
-</p>
