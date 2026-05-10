@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lecturer, Dept. of CSE, North East University Bangladesh, Sylhet, Bangladesh.
+subtitle: Lecturer in Computer Science and Engineering, North East University Bangladesh | Prospective HDR/MRes Candidate in IT/Computer Science | Blockchain-Based Trust Management for E-Commerce Reputation Systems
 
 profile:
   align: right
@@ -20,15 +20,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p style="text-align: justify">
-I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>. After completing my Bachelor's degree (BSc.(Engineering) in Computer Science and Engineering), I joined my University in May 2018. Alongside, I have been involved as a <a href='https://edas.info/showSelf.php?c=26939'>Technical Reviewer</a> in a Scopus-indexed journal, namely, the <a href='https://journal.uob.edu.bh/handle/123456789/12?id=about'>International Journal of Computing and Digital Systems</a>.
+I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>, currently on study leave and completing a Master of Information Technology and Systems majoring in Business Analytics at Victorian Institute of Technology, Sydney, Australia.
+
+My research background includes data compression, Huffman coding, adjacent distance array, algorithm design, and text processing. I have 4 research publications, including 3 Scopus-indexed publications and 1 Springer book chapter/proceedings publication.
+
+My current research interest is blockchain-based trust and reputation management for e-commerce platforms, with a focus on transparent trust scoring, fake review detection, privacy-aware digital transactions, and AI-assisted review integrity.
+
+I am seeking HDR/MRes/MPhil supervision and RTP scholarship opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
 </p>
+
 <p style="text-align: justify">
-The research field of my undergraduate thesis was data compression. I worked on the Huffman-based data compression technique to optimize decoding time for Huffman codes by introducing a new data structure. Further, the research has been extended, and I have made some <a href="https://psarkerbd.github.io/publications/">publications</a> on the knowledge. Nevertheless, currently, my research interest is in  <b>artificial intelligence</b>, <b>machine learning</b>, <b>privacy</b>, <b>security</b>, <b>data structure</b>, and <b>algorithms</b>.
-</p>
-<p style="text-align: justify"> 
-As a faculty member, the primary role involves delivering engaging and informative lectures to students, utilizing innovative teaching methods to enhance comprehension, designing and implementing fair assessments, grading assignments, and providing constructive feedback to aid student development.
-In tandem with teaching, my role involves conducting thorough research in my field, publishing scholarly articles, and contributing to the academic discourse that allows me to publish <a href="https://psarkerbd.github.io/publications/">Scopus-indexed articles</a>, enhancing enthusiasm in the research area. To describe the administrative rules, I have participated in making an Outcome Based Education (OBE) curriculum for several courses in the program instructed by UGC. In addition, I am still gathering experience as a member of the Result Verification Committee and an Assistant Proctor to serve the proctorial rules at the university.
-</p>
-<p style="text-align: justify">
-However, I could bear a good knowledge of C, C++, Java, and Python programming languages since I was a <a href='https://www.stopstalk.com/user/profile/prantacse14'>competitive programmer</a> in my pupil life. In addition, I have participated in eminent programming competitions such as ICPC, NCPC, and IUPCs for several years. However, after joining as a faculty member, I helped enthusiasts by conducting several classes and workshops related to competitive programming, which assisted in flourishing my coaching experience. Thus, I found sound involvement in prestigious programming competitions as a coach. Apart from this, I utilized Python's Tkinter feature to develop some exciting desktop projects. Furthermore, I am acquainted with PHP, a backend programming language and HTML, and W3CSS for developing many Web projects. All of this <a href='https://psarkerbd.github.io/repositories/'>learning</a> delighted my studying career at the university.
+
 </p>
