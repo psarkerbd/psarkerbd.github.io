@@ -13,7 +13,7 @@ profile:
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -29,3 +29,8 @@ However, my current research interest is <b>blockchain-based trust and reputatio
 <p style="text-align: justify">
 I am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship</em> opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
 </p>
+
+<h2 style="color: inherit;">Proposed Research Direction</h2>
+<p style="text-align: justify">
+<h3>A Blockchain-Based Trust Management Framework with AI-Assisted Fake Review Detection for E-Commerce Platforms</h3>
+This proposed research aims to explore how blockchain can support transparent, tamper-resistant, and privacy-aware trust management in e-commerce reputation systems. The project may also investigate AI-assisted methods for detecting fake or unreliable reviews and improving the reliability of trust scores in online marketplaces. </p>
