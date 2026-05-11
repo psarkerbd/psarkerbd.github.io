@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
   I am a <a href='https://www.neub.edu.bd/faculty/school-of-natural-sciences/department-of-computer-science-and-engineering/518-pranta-sarker'>Lecturer</a> in the <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/academic/school-of-natural-sciences/department-of-computer-science-and-engineering'>Department of Science and Engineering</a> at <a href='https://www.neub.edu.bd/'>North East University Bangladesh</a>, currently on study leave and completing a Master of Information Technology and Systems majoring in Business Analytics at Victorian Institute of Technology, Sydney, Australia. </p>
 <p style="text-align: justify">
-My research background includes data compression, Huffman coding, adjacent distance array, algorithm design, and text processing. I have 4 research publications, including 3 Scopus-indexed publications and 1 Springer book chapter/proceedings publication. </p>
+My research background includes data compression, Huffman coding, adjacent distance array, algorithm design, and text processing. I have <a href='https://scholar.google.com/citations?user=ZDjvXEkAAAAJ&hl=en'>4 research publications</a>, including 3 Scopus-indexed publications and 1 Springer book chapter/proceedings publication. </p>
 <p style="text-align: justify">
 However, my current research interest is <b>blockchain-based trust and reputation management for e-commerce platforms</b>, with a focus on transparent <b>trust scoring, fake review detection, privacy-aware digital transactions, and AI-assisted review integrity</b>. </p>
 <p style="text-align: justify">
@@ -31,6 +31,6 @@ I am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship<
 </p>
 
 <h2 style="color: inherit;">Proposed Research Direction</h2>
-<p style="text-align: justify">
 <h3>A Blockchain-Based Trust Management Framework with AI-Assisted Fake Review Detection for E-Commerce Platforms</h3>
+<p style="text-align: justify">
 This proposed research aims to explore how blockchain can support transparent, tamper-resistant, and privacy-aware trust management in e-commerce reputation systems. The project may also investigate AI-assisted methods for detecting fake or unreliable reviews and improving the reliability of trust scores in online marketplaces. </p>
