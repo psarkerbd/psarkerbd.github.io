@@ -30,12 +30,13 @@ However, my current research interest is <b>blockchain-based trust and reputatio
 I am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship</em> opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
 </p>
 
-<h2 style="color: inherit;">Proposed Research Direction</h2>
-<h4>A Blockchain-Based Trust Management Framework with AI-Assisted Fake Review Detection for E-Commerce Platforms</h4>
+<h3 style="color: inherit;">Proposed Research Direction</h3>
+<h5>A Blockchain-Based Trust Management Framework with AI-Assisted Fake Review Detection for E-Commerce Platforms</h5>
+
 <p style="text-align: justify">
 This proposed research aims to explore how blockchain can support transparent, tamper-resistant, and privacy-aware trust management in e-commerce reputation systems. The project may also investigate AI-assisted methods for detecting fake or unreliable reviews and improving the reliability of trust scores in online marketplaces. </p>
 
-<h2 style="color: inherit;">Research Interests</h2>
+<h3 style="color: inherit;">Research Interests</h3>
 <ul>
   <li>Blockchain-based trust management</li>
   <li>E-commerce reputation systems</li>
