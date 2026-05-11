@@ -36,10 +36,10 @@ I am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship<
 This proposed research aims to explore how blockchain can support transparent, tamper-resistant, and privacy-aware trust management in e-commerce reputation systems. The project may also investigate AI-assisted methods for detecting fake or unreliable reviews and improving the reliability of trust scores in online marketplaces. </p>
 
 <h2 style="color: inherit;">Research Interests</h2>
-<ul> 
-- Blockchain-based trust management
-- E-commerce reputation systems
-- AI-assisted fake review detection
-- Privacy and security in digital platforms
-- Data compression and algorithm design
+<ul>
+  <li>Blockchain-based trust management</li>
+  <li>E-commerce reputation systems</li>
+  <li>AI-assisted fake review detection</li>
+  <li>Privacy and security in digital platforms</li>
+  <li>Data compression and algorithm design</li>
 </ul>
