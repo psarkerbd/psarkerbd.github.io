@@ -28,7 +28,7 @@ My research background includes data compression, Huffman coding, adjacent dista
 However, my current research interest is <b>blockchain-based trust and reputation management for e-commerce platforms</b>, with a focus on transparent <b>trust scoring, fake review detection, privacy-aware digital transactions, and AI-assisted review integrity</b>. </p>
 
 <p style="text-align: justify">
-<p style="font-weight: bold; color: red;">I</p> am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship</em> opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
+I am seeking <b><em>HDR/MRes/MPhil</em> supervision</b> and <em>RTP scholarship</em> opportunities for 2027 in IT/Computer Science, particularly in blockchain, trust management, cybersecurity, e-commerce reputation systems, applied AI, and information systems.
 </p>
 
 <h2 style="color: inherit;">Proposed Research Direction</h2>
