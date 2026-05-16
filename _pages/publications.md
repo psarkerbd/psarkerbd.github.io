@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: All Publications
-description: The page provides information about the published content of the research. It includes a list of all accepted or published articles in several journals or conferences organized by date or category. In addition, the page may retain a summary of each article or position and associations to the full text.
+description: This page lists my research publications in data compression, Huffman coding, adjacent distance array, and related computing areas. Each publication includes bibliographic details, indexing information, DOI/publisher link, abstract, and PDF where available.
 years: [2024, 2022, 2021, 2020]
 nav: false
 nav_order: 
