@@ -10,7 +10,7 @@ profile:
   image_circular: false
   address: >
     <p class="text-center mt-2">
-      <a href="/assets/pdf/PrantaSarker_CV.pdf" target="_blank" rel="noopener noreferrer class="btn btn-sm btn-outline-primary">
+      <a href="/assets/pdf/PrantaSarker_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">
         Download Academic CV
       </a>
     </p>
