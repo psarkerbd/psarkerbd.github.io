@@ -32,14 +32,16 @@ layout: default
             <div class="address">
               {{ page.profile.address }}
             </div>
-            <div class="about_cv mt-2 text-center">
-              <a href="{{ page.profile.cv_pdf | prepend: '/assets/pdf/' | relative_url }}" 
-                 target="_blank" 
-                 rel="noopener noreferrer"
-                 class="btn btn-sm btn-outline-primary">
-                Download Academic CV
-              </a>
-            </div>
+            {% if page.profile.cv_pdf %}
+                  <div class="about_cv mt-2 text-center">
+                    <a href="{{ page.profile.cv_pdf | prepend: '/assets/pdf/' | relative_url }}"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       class="btn btn-sm btn-outline-primary">
+                      Download Academic CV
+                    </a>
+                  </div>
+            {% endif %}
             {%- endif %}
           </div>
           {%- endif %}
