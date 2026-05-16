@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: All Publications
 description: The page provides information about the published content of the research. It includes a list of all accepted or published articles in several journals or conferences organized by date or category. In addition, the page may retain a summary of each article or position and associations to the full text.
-years: [2024, 2021, 2020]
+years: [2024, 2021, 2021, 2020]
 nav: false
 nav_order: 
 ---
