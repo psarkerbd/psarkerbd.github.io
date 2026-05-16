@@ -40,7 +40,7 @@ This proposed research aims to explore how blockchain can support transparent, t
 
 <h2 style="color: inherit;">Research Interests</h2>
 
-<ul style="display: flex; gap: 50px; list-style-type: disc; padding: 0; margin: 0;">
+<ul>
   <li>Blockchain-based trust management</li>
   <li>E-commerce reputation systems</li>
   <li>AI-assisted fake review detection</li>
