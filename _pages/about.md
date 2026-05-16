@@ -4,17 +4,17 @@ title: About
 permalink: /
 subtitle: Lecturer in Computer Science and Engineering, North East University Bangladesh | Prospective HDR/MRes Candidate in IT/CS | Blockchain-Based Trust Management for E-Commerce Reputation Systems
 
-profile:
+  profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   cv_pdf: PrantaSarker_CV.pdf
   address: >
-  <p class="text-center mt-2">
-    <a href="/assets/pdf/PrantaSarker_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">
-      Download Academic CV
-    </a>
-  </p>
+    <p class="text-center mt-2">
+      <a href="/assets/pdf/PrantaSarker_CV.pdf" target="_blank" rel="noopener noreferrer" class="btn btn-sm btn-outline-primary">
+        Download Academic CV
+      </a>
+    </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
