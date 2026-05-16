@@ -14,8 +14,4 @@ nav_order:
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
-<h6>Note:</h6>
-<ol>
-    <li id="footnote-1"> <b>*</b>  indicates the paper is accepted and entered into the publication schedule.</li>
-</ol>
 </div>
