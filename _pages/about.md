@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lecturer in CSE, NEUB | Prospective HDR/MRes Candidate in IT/CS | Blockchain-Based Trust Management for E-Commerce Reputation Systems
+subtitle: Lecturer in Computer Science and Engineering, North East University Bangladesh | Prospective HDR/MRes Candidate in IT/CS | Blockchain-Based Trust Management for E-Commerce Reputation Systems
 
 profile:
   align: right
