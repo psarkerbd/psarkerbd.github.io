@@ -9,10 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   cv_pdf: PrantaSarker_CV.pdf
-  address:
-  <p>555 your office number</p>
-  <p>123 your address street</p>
-  <p>Your City, State 12345</p>
+  more_info: >
+    <p>
+      <a href="/assets/pdf/PrantaSarker_CV.pdf" target="_blank" rel="noopener noreferrer">
+        Download Academic CV
+      </a>
+    </p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
