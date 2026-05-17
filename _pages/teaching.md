@@ -2,10 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I have had the opportunity to take several courses in my teaching career, which are listed below. I have mostly taken Compiler Construction, Theory of Computation, and Software Engineering in different semesters. However, I have enjoyed every course and endeavour to teach and learn new knowledge to the students.
+description: I have taught a range of undergraduate Computer Science and Engineering courses at North East University Bangladesh since 2018. My teaching experience covers core computing areas such as programming, data structures, algorithms, theory of computation, database systems, software engineering, operating systems, compiler construction, web engineering, and computer graphics. I have also conducted laboratory sessions, guided students in programming practice, and supported academic project-based learning.
 nav: true
 nav_order: 3
 ---
+<h4>Selected courses taught:</h4>
 <style>
 table {
   border-collapse: collapse;
@@ -90,6 +91,11 @@ th, td {
     <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program. </li>
     <li id="footnote-3">Instead of four, from 2022, the university has been following six months for a semester, obeying the government's and UGC's approaches.</li>
 </ol>
+
+<h4>Teaching and Mentoring Activities</h4>
+<p style="text-align: justufy">
+Beyond classroom teaching, I have supported students through academic mentoring, programming contest preparation, project guidance, and technical skill development. My teaching experience has strengthened my ability to explain complex computing concepts, supervise student learning, and contribute to academic development in higher education.
+</p>
 
 
 
