@@ -19,7 +19,7 @@ More recently, the method was applied to short text message compression. The stu
 </p>
 
 
-<h5>Current Research Transition</h5>
+<h4>Current Research Transition</h4>
 <p style="text-align: justify;">
 This research background has strengthened my skills in algorithm design, data structure development, experimental evaluation, and technical publication. Building on this foundation, my current research interest has shifted toward blockchain-based trust and reputation management for e-commerce platforms, with a focus on transparent trust scoring, fake review detection, privacy-aware digital transactions, and AI-assisted review integrity.
 </p>
