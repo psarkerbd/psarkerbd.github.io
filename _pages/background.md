@@ -17,6 +17,9 @@ Further experimental evidence showed that the proposed method outperformed conve
 <p style="text-align: justify">
 More recently, the method was applied to short text message compression. The study evaluated SMS data using a benchmark corpus and demonstrated that the adjacent distance array approach could improve SMS compression performance. This work was published in 2024 as <a href = "https://www.inderscienceonline.com/doi/abs/10.1504/IJICT.2024.140309">A Huffman-Based Short Message Service Compression Technique Using Adjacent Distance Array</a> in the International Journal of Information and Communication Technology, a Scopus-indexed journal.
 </p>
-<p style="text-align: justify; font-style: italic">
+
+
+<h5>Current Research Transition</h5>
+<p style="text-align: justify;">
 This research background has strengthened my skills in algorithm design, data structure development, experimental evaluation, and technical publication. Building on this foundation, my current research interest has shifted toward blockchain-based trust and reputation management for e-commerce platforms, with a focus on transparent trust scoring, fake review detection, privacy-aware digital transactions, and AI-assisted review integrity.
 </p>
