@@ -70,7 +70,7 @@ th, td {
   </tr>
   <tr>
     <td>CSE 413 Web Engineering <br/>CSE 414 Web Engineering Lab</td>
-    <td><b>*Summer 2023</b></td>
+    <td><b>Summer 2023</b></td>
   </tr>
     <tr>
     <td>CSE 421 Compiler Construction <br/>CSE 422 Compiler Construction Lab</td>
@@ -87,7 +87,6 @@ th, td {
 </table>
 <h6>Note:</h6>
 <ol>
-    <li id="footnote-1"><b> * </b> indicates the running semester.</li>
     <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program. </li>
     <li id="footnote-3">Instead of four, from 2022, the university has been following six months for a semester, obeying the government's and UGC's approaches.</li>
 </ol>
