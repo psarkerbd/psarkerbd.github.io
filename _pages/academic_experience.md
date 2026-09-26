@@ -6,95 +6,38 @@ description:
 nav: false
 nav_order: 
 ---
-<h4>Selected courses taught:</h4>
-<style>
-table {
-  border-collapse: collapse;
-  border: 2px solid black;
-}
 
-th, td {
-  padding: 5px;
-  border: 1px solid black;
-}
-</style>
+## Academic Experience
 
-<table style="width:100%">
-  <tr>
-    <th>Course Name</th>
-    <th>Taken in Semester</th>
-  </tr>
-  <tr>
-    <td>CSE 101 Fundamentals of Computer</td>
-    <td>Fall 2021</td>
-  </tr>
-  <tr>
-    <td>CSE 131 Data structure <br/>CSE 132 Data structure Lab</td>
-    <td>Spring 2022</td>
-  </tr>
-  <tr>
-    <td>CSE 200 Project Work II </td>
-    <td>Summer 2018</td>
-  </tr>
-   <tr>
-    <td>CSE 211 Object Oriented Programming Language <br/> CSE 212 Object Oriented Programming Language Lab</td>
-    <td>Spring 2023, Summer 2022</td>
-  </tr>
-   <tr>
-    <td>CSE 223 Theory of Computation</td>
-    <td><b>*Summer 2023</b>, Summer 2022, Spring 2021, Spring 2019</td>
-  </tr>
-   <tr>
-    <td>CSE 231 Algorithm Design and Analysis <br/> CSE 232 Algorithm Design and Analysis Lab</td>
-    <td><b>*Summer 2023</b>, Fall 2018</td>
-  </tr>
-   <tr>
-    <td>CSE 311 Computer Architecture</td>
-    <td>Summer 2021, Summer 2019</td>
-  </tr>
-  <tr>
-    <td>CSE 313 Database System <br/>CSE 314 Database System Lab</td>
-    <td>Summer 2018</td>
-  </tr>
-  <tr>
-    <td>CSE 315 Communication Engineering</td>
-    <td>Fall 2021, Summer 2018</td>
-  </tr>
-   <tr>
-    <td>CSE 331 Operating System and System programming <br/>CSE 332 Operating System and System programming Lab </td>
-    <td>Summer 2021, Spring 2021</td>
-  </tr>
-   <tr>
-    <td>CSE 333 Software Engineering <br/> CSE 334 Software Engineering Lab</td>
-    <td>Spring 2023, Spring 2022, Fall 2019, Spring 2019</td>
-  </tr>
-  <tr>
-    <td>CSE 413 Web Engineering <br/>CSE 414 Web Engineering Lab</td>
-    <td><b>Summer 2023</b></td>
-  </tr>
-    <tr>
-    <td>CSE 421 Compiler Construction <br/>CSE 422 Compiler Construction Lab</td>
-    <td>Spring 2023, Fall 2021, Fall 2020, Summer 2020, Fall 2019, Fall 2018</td>
-  </tr>
-  <tr>
-    <td>CSE 423 Computer Graphics </td>
-    <td>Fall 2020, Spring 2020, Summer 2019</td>
-  </tr>
-   <tr>
-    <td>**CSE 449 Bioinformatics <br/>**CSE 450 Bioinformatics Lab</td>
-    <td>Summer 2022, Spring 2019</td>
-  </tr>
-</table>
-<h6>Note:</h6>
-<ol>
-    <li id="footnote-2"><b> ** </b> indicates the contemporary course of the program. </li>
-    <li id="footnote-3">Instead of four, from 2022, the university has been following six months for a semester, obeying the government's and UGC's approaches.</li>
-</ol>
+**Lecturer, Department of Computer Science and Engineering**
+North East University Bangladesh (NEUB), Sylhet, Bangladesh
+*May 2018 – Present (currently on study leave, Oct 2024 – Oct 2026, 
+for postgraduate study in Australia)*
 
-<h4>Teaching and Mentoring Activities</h4>
-<p style="text-align: justufy">
-Beyond classroom teaching, I have supported students through academic mentoring, programming contest preparation, project guidance, and technical skill development. My teaching experience has strengthened my ability to explain complex computing concepts, supervise student learning, and contribute to academic development in higher education.
-</p>
+### Teaching
+- Delivered lectures, tutorials, and laboratory sessions for undergraduate 
+  courses in the B.Sc. (Engg.) in CSE program — see [Teaching](/teaching) 
+  for full course list
+- Designed and evaluated assignments, class tests, and semester examinations
+- Provided academic advising and mentoring to undergraduate students
+
+### Curriculum Development
+**Outcome-Based Education (OBE) Curriculum Redesign** | 2022
+Contributed to the department's redevelopment of the B.Sc. (Engg.) in 
+CSE curriculum under an Outcome-Based Education framework. As course 
+teacher, designed course-level syllabi and Course Learning Outcomes 
+(CLOs) mapped to the program's Learning Outcomes (PLOs) and Educational 
+Objectives (PEOs), contributing to the department-wide curriculum 
+revision for NEUB's dual-semester program structure.
+
+### Examination & Assessment
+- Set and evaluated semester examination papers
+- Participated in departmental examination processes
+
+### Academic Service
+- **TPC Reviewer**, *International Journal of Computing and Digital 
+  Systems (IJCDS)*, University of Bahrain Scientific Journals | 2022 – Present
+- Regular participation in departmental and faculty meetings
 
 
 
