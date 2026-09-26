@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: I have taught a range of undergraduate Computer Science and Engineering courses at North East University Bangladesh since 2018. My teaching experience covers core computing areas such as programming, data structures, algorithms, theory of computation, database systems, software engineering, operating systems, compiler construction, web engineering, and computer graphics. I have also conducted laboratory sessions, guided students in programming practice, and supported academic project-based learning.
-nav: true
-nav_order: 4
+nav: false
+nav_order: 
 ---
 <h4>Selected courses taught:</h4>
 <style>
