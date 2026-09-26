@@ -6,7 +6,7 @@ nav_order: 2
 dropdown: true
 children: 
     - title: Academic
-      permalink: /experience/
+      permalink: /academic_experience/
     - title: divider
     - title: Teaching
       permalink: /teaching/
