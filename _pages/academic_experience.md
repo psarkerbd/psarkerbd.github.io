@@ -7,7 +7,7 @@ nav: false
 nav_order: 
 ---
 
-**Lecturer, Department of Computer Science and Engineering**
+**Lecturer, Department of Computer Science and Engineering** <br>
 North East University Bangladesh (NEUB), Sylhet, Bangladesh
 *May 2018 – Present (currently on study leave, Oct 2024 – Oct 2026, 
 for postgraduate study in Australia)*
