@@ -21,14 +21,26 @@ for postgraduate study in Australia)*
 - Designed and evaluated assignments, class tests, and semester examinations
 - Provided academic advising and mentoring to undergraduate students
 
+
 ### Curriculum Development
-**Outcome-Based Education (OBE) Curriculum Redesign** | 2022
-Contributed to the department's redevelopment of the B.Sc. (Engg.) in 
-CSE curriculum under an Outcome-Based Education framework. As course 
-teacher, designed course-level syllabi and Course Learning Outcomes 
-(CLOs) mapped to the program's Learning Outcomes (PLOs) and Educational 
-Objectives (PEOs), contributing to the department-wide curriculum 
-revision for NEUB's dual-semester program structure.
+**Outcome-Based Education (OBE) Curriculum Design** | 2022
+
+Designed course-level syllabi and Course Learning Outcomes (CLOs) for:
+- Database Systems
+- Theory of Computation
+- Operating Systems
+- Software Engineering
+- Web Engineering
+- Bioinformatics
+- Compiler Construction
+- Introduction to Computer Security
+- Computer Graphics
+
+Each syllabus was mapped to the program's Learning Outcomes (PLOs) and 
+Educational Objectives (PEOs), as part of the Department of CSE's 
+redevelopment of the B.Sc. (Engg.) curriculum under an Outcome-Based 
+Education framework.
+
 
 ### Examination & Assessment
 - Set and evaluated semester examination papers
