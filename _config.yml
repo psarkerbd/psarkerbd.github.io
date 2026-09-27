@@ -13,7 +13,7 @@ footer_text: Powered by al-folio
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: pranta, sarker, github, blockchain, data compression, data structure, huffman, huffman coding, algorithm, trust, security, profile  # add your own keywords or leave empty
+keywords: pranta, sarker, github, blockchain, trust, reputation, security, privacy, data compression, data structure, huffman, huffman coding, algorithm, trust, security, profile  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -79,7 +79,7 @@ linkedin_username: pranta-sarker-7895ba134 # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: ZDjvXEkAAAAJ # your Google Scholar ID
 scopus_authorid: 57223616299 # your Scopus author id
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 1742185295 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-3464-8983 # your ORCID ID
 medium_username: # your Medium username
@@ -88,8 +88,8 @@ publons_id: # your ID on Publons
 osf_id: # your OSF ID
 research_gate_profile: Pranta-Sarker-2 # your profile on ResearchGate
 academia_profile: PrantaSarker # your academia profile
-blogger_url: # your blogger URL
-work_url: neub.edu.bd/ # work page URL
+blogger_url: https://prantasarker.blogspot.com/ # your blogger URL
+work_url: https://neub.edu.bd/persons/518-pranta-sarker # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
